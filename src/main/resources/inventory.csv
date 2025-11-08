@@ -1,0 +1,4 @@
+sku_id,sku_name,stock_qty,price,warehouse
+101,Wireless Mouse,150,499,WH1
+102,Keyboard,100,999,WH1
+103,Headphones,200,1299,WH2
